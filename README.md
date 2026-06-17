@@ -82,7 +82,7 @@ The full report is saved to a timestamped text file for reference.
 
 Requirements: Python 3.9 or higher, Anthropic API key
 
-  git clone https://github.com/maleechanel/loan-readiness-advisor.git
+  git clone https://github.com/sumaleesimmonds/loan-readiness-advisor.git
   cd loan-readiness-advisor
   pip3 install anthropic
   export ANTHROPIC_API_KEY="sk-ant-your-key-here"
